@@ -1,0 +1,3 @@
+path is: /etc/resolv.conf
+
+to view ip address of dns server: cat /etc/resolv.conf

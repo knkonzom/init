@@ -1,0 +1,3 @@
+/etc/hosts
+
+to view: cat /etc/hosts
