@@ -1,1 +1,5 @@
 ifconfig -l
+
+ifconfig -L en0 | grep "inet " | cut -d " " -f 2
+
+netstat -i | awk '!/Kernel|Iface/{print $1}'
