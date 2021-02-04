@@ -1,1 +1,1 @@
-/etc/debian_version
+tail -f /var/log/syslog

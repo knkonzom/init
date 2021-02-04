@@ -1,1 +1,3 @@
-/etc/debian_version
+sudo kill [16728]
+
+16728 was the PID of background command
